@@ -1,0 +1,7 @@
+*.pyc
+*.db
+config.ini
+tokens.py
+*.log
+logs.log
+paths.py
